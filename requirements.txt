@@ -1,0 +1,7 @@
+Flask
+nltk
+numpy
+pandas
+joblib
+gensim
+scikit-learn==1.2.2
